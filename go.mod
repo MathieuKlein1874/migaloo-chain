@@ -26,7 +26,7 @@ require (
 	github.com/spf13/cast v1.7.1
 	github.com/spf13/cobra v1.8.1
 	github.com/spf13/viper v1.19.0
-	github.com/stretchr/testify v1.10.0
+	github.com/stretchr/testify v1.11.1
 	github.com/terra-money/alliance v0.3.6
 	github.com/terra-money/core/v2 v2.11.4
 	google.golang.org/grpc v1.69.2
